@@ -1,10 +1,3 @@
-```css
-/* ==========================================
-   PRINCO — IMAGE UPGRADE
-   Add this at the END of your current CSS
-========================================== */
-
-/* Main hero image */
 .visual-main {
   width: min(100%, 510px);
   height: 365px;
